@@ -30,6 +30,12 @@ public class LoginViewController : MonoBehaviour {
 		m_loginPanel.SetActive(false);
 	}
 
+	//进入主城
+	public void onEnterGame()
+	{
+		ViewControllerManager.getInstance ().goTo ("MainScene");
+	}
+
 	//点击注册
 	public void onRegistServerBtClick()
 	{
