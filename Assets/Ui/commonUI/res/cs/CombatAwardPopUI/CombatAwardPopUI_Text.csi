@@ -1,0 +1,10 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="CombatAwardPopUI_Text" ID="8aaccc0d-5fa5-4e70-a964-9e54c27636d2" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/cs/CombatAwardPopUI/lingjiang.png" />
+      <FilePathData Path="commonUI/res/cs/CombatAwardPopUI/lingqujiangli.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

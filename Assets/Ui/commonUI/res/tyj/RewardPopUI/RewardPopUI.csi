@@ -1,0 +1,10 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="RewardPopUI" ID="dc073182-411d-4277-b3ef-14a92022e71d" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/RewardPopUI/dian.png" />
+      <FilePathData Path="commonUI/res/tyj/RewardPopUI/lqjl.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

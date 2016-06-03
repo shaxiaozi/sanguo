@@ -1,0 +1,10 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="firstPayBg" ID="d1834966-a5a1-416b-ad8c-8e83bf11a7f3" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/FirstPayRewardPopUI/bj.png" />
+      <FilePathData Path="commonUI/res/tyj/FirstPayRewardPopUI/scje.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

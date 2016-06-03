@@ -1,0 +1,25 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="HuoDongPopUI_Text" ID="dd142bf9-7194-4e95-a2e1-fa8f1e33f7b1" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/chongzhi.png" />
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/czhd1.png" />
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/czhd2.png" />
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/czjh1.png" />
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/czjh2.png" />
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/dixming.png" />
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/huodongjieshao.png" />
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/huodongshijian.png" />
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/leijichongzhi.png" />
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/leijixiaofei.png" />
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/ljxf1.png" />
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/ljxf2.png" />
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/mrcz1.png" />
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/mrcz2.png" />
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/ttzb1.png" />
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/ttzb2.png" />
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/yilingqu.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

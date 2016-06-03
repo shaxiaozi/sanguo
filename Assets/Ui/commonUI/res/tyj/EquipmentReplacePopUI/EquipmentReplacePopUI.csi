@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="EquipmentReplacePopUI" ID="7af395fc-0d6f-406f-af6c-74d0bb417266" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/EquipmentReplacePopUI/dangqianzhuangbei_1.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipmentReplacePopUI/dangqianzhuangbei_2.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipmentReplacePopUI/dangqianzhuangbei_3.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipmentReplacePopUI/dangqianzhuangbei_4.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

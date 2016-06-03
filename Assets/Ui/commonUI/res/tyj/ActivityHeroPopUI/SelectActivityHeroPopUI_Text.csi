@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="SelectActivityHeroPopUI_Text" ID="7e2a6271-df37-454b-a586-57b8e9f0c2c6" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/ActivityHeroPopUI/qunxiong.png" />
+      <FilePathData Path="commonUI/res/tyj/ActivityHeroPopUI/qunxiong_h.png" />
+      <FilePathData Path="commonUI/res/tyj/ActivityHeroPopUI/shu.png" />
+      <FilePathData Path="commonUI/res/tyj/ActivityHeroPopUI/shu_h.png" />
+      <FilePathData Path="commonUI/res/tyj/ActivityHeroPopUI/teshu.png" />
+      <FilePathData Path="commonUI/res/tyj/ActivityHeroPopUI/teshu_h.png" />
+      <FilePathData Path="commonUI/res/tyj/ActivityHeroPopUI/wei.png" />
+      <FilePathData Path="commonUI/res/tyj/ActivityHeroPopUI/wei_h.png" />
+      <FilePathData Path="commonUI/res/tyj/ActivityHeroPopUI/wu.png" />
+      <FilePathData Path="commonUI/res/tyj/ActivityHeroPopUI/wu_h.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

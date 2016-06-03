@@ -1,0 +1,10 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="MailOnePopUI_Text" ID="186e99e8-356f-486d-ae18-00ba685ded76" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/MailOnePopUI/jijianren.png" />
+      <FilePathData Path="commonUI/res/lk/MailOnePopUI/youxiang.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

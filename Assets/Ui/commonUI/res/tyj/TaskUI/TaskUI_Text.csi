@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="TaskUI_Text" ID="792429cd-1ba9-4037-86a0-fcce9670e14e" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/TaskUI/dian.png" />
+      <FilePathData Path="commonUI/res/tyj/TaskUI/dqhyd.png" />
+      <FilePathData Path="commonUI/res/tyj/TaskUI/kelqu.png" />
+      <FilePathData Path="commonUI/res/tyj/TaskUI/qianw.png" />
+      <FilePathData Path="commonUI/res/tyj/TaskUI/rwu.png" />
+      <FilePathData Path="commonUI/res/tyj/TaskUI/sdscj.png" />
+      <FilePathData Path="commonUI/res/tyj/TaskUI/yiwanc.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

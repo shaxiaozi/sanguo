@@ -1,0 +1,14 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="HeroShiLianUI" ID="c3e13f17-dcc9-4c0a-a3d1-70f44cba301b" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="False" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/HeroShiLianUI/cgbai.png" />
+      <FilePathData Path="commonUI/res/tyj/HeroShiLianUI/dqzg.png" />
+      <FilePathData Path="commonUI/res/tyj/HeroShiLianUI/em.png" />
+      <FilePathData Path="commonUI/res/tyj/HeroShiLianUI/lfsj.png" />
+      <FilePathData Path="commonUI/res/tyj/HeroShiLianUI/wz.png" />
+      <FilePathData Path="commonUI/res/tyj/HeroShiLianUI/yz.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

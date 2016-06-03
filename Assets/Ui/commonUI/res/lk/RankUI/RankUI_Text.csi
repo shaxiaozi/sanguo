@@ -1,0 +1,20 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="RankUI_Text" ID="f7bc1e0c-7ef3-4dfa-83f1-148b45f7e0cf" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/RankUI/1.png" />
+      <FilePathData Path="commonUI/res/lk/RankUI/2.png" />
+      <FilePathData Path="commonUI/res/lk/RankUI/3.png" />
+      <FilePathData Path="commonUI/res/lk/RankUI/gonghui.png" />
+      <FilePathData Path="commonUI/res/lk/RankUI/gonghuipaihangbang.png" />
+      <FilePathData Path="commonUI/res/lk/RankUI/gonghuipaiming.png" />
+      <FilePathData Path="commonUI/res/lk/RankUI/gonghuipaiming_1.png" />
+      <FilePathData Path="commonUI/res/lk/RankUI/paihangbang.png" />
+      <FilePathData Path="commonUI/res/lk/RankUI/wanjia.png" />
+      <FilePathData Path="commonUI/res/lk/RankUI/wanjiapaihangbang.png" />
+      <FilePathData Path="commonUI/res/lk/RankUI/wanjiapaiming.png" />
+      <FilePathData Path="commonUI/res/lk/RankUI/wanjiapaiming_1.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

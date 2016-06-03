@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="HeroUI_Text" ID="ead06851-5a87-49ae-b578-0a2784aef154" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/HeroUI/chushou.png" />
+      <FilePathData Path="commonUI/res/lk/HeroUI/kehuishou.png" />
+      <FilePathData Path="commonUI/res/lk/HeroUI/tujian.png" />
+      <FilePathData Path="commonUI/res/lk/HeroUI/yijianxuanzhong.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

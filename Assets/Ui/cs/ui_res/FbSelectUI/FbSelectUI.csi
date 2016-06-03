@@ -1,0 +1,21 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="FbSelectUI" ID="c62be225-8c5e-431d-ae80-19b8d8a88c8b" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="cs/ui_res/FbSelectUI/guildprize_text.png" />
+      <FilePathData Path="cs/ui_res/FbSelectUI/guildprize_titlebg.png" />
+      <FilePathData Path="cs/ui_res/FbSelectUI/jindu1.png" />
+      <FilePathData Path="cs/ui_res/FbSelectUI/jindudi.png" />
+      <FilePathData Path="cs/ui_res/FbSelectUI/lock.png" />
+      <FilePathData Path="cs/ui_res/FbSelectUI/pve_tiao.png" />
+      <FilePathData Path="cs/ui_res/FbSelectUI/pve_tiao1.png" />
+      <FilePathData Path="cs/ui_res/FbSelectUI/pve_tiao2.png" />
+      <FilePathData Path="cs/ui_res/FbSelectUI/pve_tiao3.png" />
+      <FilePathData Path="cs/ui_res/FbSelectUI/pve_tou.png" />
+      <FilePathData Path="cs/ui_res/FbSelectUI/start_tuitu1.png" />
+      <FilePathData Path="cs/ui_res/FbSelectUI/tit.png" />
+      <FilePathData Path="cs/ui_res/FbSelectUI/cl.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

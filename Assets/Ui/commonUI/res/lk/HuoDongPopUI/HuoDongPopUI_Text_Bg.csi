@@ -1,0 +1,9 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="HuoDongPopUI_Text_Bg" ID="08b85124-498b-4cce-ad2f-fca8ced0cd87" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/HuoDongPopUI/fuli.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

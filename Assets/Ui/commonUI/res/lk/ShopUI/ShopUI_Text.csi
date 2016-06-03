@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="ShopUI_Text" ID="6dccd36e-3d96-4324-bebd-459007120686" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/ShopUI/shouqing.png" />
+      <FilePathData Path="commonUI/res/lk/ShopUI/shuaxin.png" />
+      <FilePathData Path="commonUI/res/lk/ShopUI/wupinshuliang.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

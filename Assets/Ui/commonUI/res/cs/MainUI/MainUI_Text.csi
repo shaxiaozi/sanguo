@@ -1,0 +1,35 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="MainUI_Text" ID="5c1cce76-4c0e-4512-bd9c-3b41f28689b1" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/cs/MainUI/baibao.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/Cards_main.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/chuzheng.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/fuli.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/gongh.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/hec.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/main_mission.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/main_qix.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/main_shop.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/main_tiant.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/main_youx.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/main_zhaom.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/main_zhucheng.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/shoucdalib.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/qiandao.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/qianghua.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/shilian.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/VIP.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/xianssj.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/xuezhan.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/zhen.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/zhuangb.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/main_mission_0.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/chengjiu.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/libao.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/lingjiang.png" />
+      <FilePathData Path="commonUI/res/cs/MainUI/p3.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

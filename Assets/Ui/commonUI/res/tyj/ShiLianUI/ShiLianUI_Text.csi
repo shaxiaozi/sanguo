@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="ShiLianUI_Text" ID="e2968104-3aa0-44a7-9edd-03e45e4886bd" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/ShiLianUI/lis.png" />
+      <FilePathData Path="commonUI/res/tyj/ShiLianUI/mshi.png" />
+      <FilePathData Path="commonUI/res/tyj/ShiLianUI/shushu.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

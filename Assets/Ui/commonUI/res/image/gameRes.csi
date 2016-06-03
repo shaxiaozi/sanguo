@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="gameRes" ID="b42b2ea5-aeeb-44c8-a335-dd3bf7c1ea86" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/image/hunjin.png" />
+      <FilePathData Path="commonUI/res/image/huoyue.png" />
+      <FilePathData Path="commonUI/res/image/jifen.png" />
+      <FilePathData Path="commonUI/res/image/jitui.png" />
+      <FilePathData Path="commonUI/res/image/soul.png" />
+      <FilePathData Path="commonUI/res/image/jinbi.png" />
+      <FilePathData Path="commonUI/res/image/yuanbao.png" />
+      <FilePathData Path="commonUI/res/image/Results_exp.png" />
+      <FilePathData Path="commonUI/res/image/property_43.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

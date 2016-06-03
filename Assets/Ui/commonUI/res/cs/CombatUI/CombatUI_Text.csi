@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="CombatUI_Text" ID="e95a23d7-6734-465c-b787-d734e06cd142" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/cs/CombatUI/zidongzhandou.png" />
+      <FilePathData Path="commonUI/res/cs/CombatUI/zidongzhandou_0.png" />
+      <FilePathData Path="commonUI/res/cs/CombatUI/tiaoguo.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

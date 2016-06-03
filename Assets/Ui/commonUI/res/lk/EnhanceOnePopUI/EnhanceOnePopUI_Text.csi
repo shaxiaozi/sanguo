@@ -1,0 +1,14 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="EnhanceOnePopUI_Text" ID="fb180e7a-c6c9-4ccf-8e90-fda695e16207" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/EnhanceOnePopUI/huodejingyan.png" />
+      <FilePathData Path="commonUI/res/lk/EnhanceOnePopUI/tianjiawujiangka.png" />
+      <FilePathData Path="commonUI/res/lk/EnhanceOnePopUI/wujiangzidongtianjia.png" />
+      <FilePathData Path="commonUI/res/lk/EnhanceOnePopUI/xiaohaotongqian.png" />
+      <FilePathData Path="commonUI/res/lk/EnhanceOnePopUI/xiayijishengjijingyan.png" />
+      <FilePathData Path="commonUI/res/lk/EnhanceOnePopUI/zidongtianjia.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

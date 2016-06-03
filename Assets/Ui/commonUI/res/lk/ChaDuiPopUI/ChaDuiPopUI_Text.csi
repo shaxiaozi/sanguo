@@ -1,0 +1,16 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="ChaDuiPopUI_Text" ID="df304482-9deb-40bd-8ecd-68b6a6f84d97" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/ChaDuiPopUI/chadui.png" />
+      <FilePathData Path="commonUI/res/lk/ChaDuiPopUI/chadui_0.png" />
+      <FilePathData Path="commonUI/res/lk/ChaDuiPopUI/daifenpei.png" />
+      <FilePathData Path="commonUI/res/lk/ChaDuiPopUI/dangqianpaizai.png" />
+      <FilePathData Path="commonUI/res/lk/ChaDuiPopUI/jixu.png" />
+      <FilePathData Path="commonUI/res/lk/ChaDuiPopUI/xuyaozhifu.png" />
+      <FilePathData Path="commonUI/res/lk/ChaDuiPopUI/zidongfenpei.png" />
+      <FilePathData Path="commonUI/res/lk/ChaDuiPopUI/shenqingduilie.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

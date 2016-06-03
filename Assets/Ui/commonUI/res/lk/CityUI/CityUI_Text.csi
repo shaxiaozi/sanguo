@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="CityUI_Text" ID="8a62b722-d221-40ca-97a8-da852c7b108e" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/CityPopUI/queren.png" />
+      <FilePathData Path="commonUI/res/lk/CityUI/baowushuliang.png" />
+      <FilePathData Path="commonUI/res/lk/CityUI/jiasu.png" />
+      <FilePathData Path="commonUI/res/lk/CityUI/jinbizengjia.png" />
+      <FilePathData Path="commonUI/res/lk/CityUI/jinrishengyucishu.png" />
+      <FilePathData Path="commonUI/res/lk/CityUI/kaishi.png" />
+      <FilePathData Path="commonUI/res/lk/CityUI/kaishizhixingrenwu.png" />
+      <FilePathData Path="commonUI/res/lk/CityUI/lingjiang.png" />
+      <FilePathData Path="commonUI/res/lk/CityUI/lingqujiangli.png" />
+      <FilePathData Path="commonUI/res/lk/CityUI/renwudaojishi.png" />
+      <FilePathData Path="commonUI/res/lk/CityUI/shengjisuoxujingyan.png" />
+      <FilePathData Path="commonUI/res/lk/CityUI/tansuoxunbao.png" />
+      <FilePathData Path="commonUI/res/lk/CityUI/weihuzhian.png" />
+      <FilePathData Path="commonUI/res/lk/CityUI/yuanbaozengjia.png" />
+      <FilePathData Path="commonUI/res/lk/CityUI/zhengdunshangye.png" />
+      <FilePathData Path="commonUI/res/lk/CityPopUI/shengjila.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

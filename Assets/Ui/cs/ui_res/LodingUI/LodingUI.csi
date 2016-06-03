@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="LodingUI" ID="36eb3b50-c23e-4cf7-b7e8-11ce97aab7ac" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="cs/ui_res/LodingUI/brown.png" />
+      <FilePathData Path="cs/ui_res/LodingUI/green.png" />
+      <FilePathData Path="cs/ui_res/LodingUI/loading_brown.png" />
+      <FilePathData Path="cs/ui_res/LodingUI/login2.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

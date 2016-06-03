@@ -1,0 +1,13 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="GameSetPopUI" ID="fa5ef41b-20bc-4dfd-a3e8-804e0dd37bd2" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/cs/GameSetPopUI/genghuantouxiang.png" />
+      <FilePathData Path="commonUI/res/cs/GameSetPopUI/queding.png" />
+      <FilePathData Path="commonUI/res/cs/GameSetPopUI/shezhi.png" />
+      <FilePathData Path="commonUI/res/cs/GameSetPopUI/zhuxiao.png" />
+      <FilePathData Path="commonUI/res/cs/GameSetPopUI/qhfwq.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

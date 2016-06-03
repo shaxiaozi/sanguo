@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="SoldiersPopUI_Text" ID="608c5552-c679-4724-babc-fb038cbb74a1" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/SoldiersPopUI/bu.png" />
+      <FilePathData Path="commonUI/res/lk/SoldiersPopUI/bu_0.png" />
+      <FilePathData Path="commonUI/res/lk/SoldiersPopUI/gong.png" />
+      <FilePathData Path="commonUI/res/lk/SoldiersPopUI/gong_0.png" />
+      <FilePathData Path="commonUI/res/lk/SoldiersPopUI/jinjiechenggong.png" />
+      <FilePathData Path="commonUI/res/lk/SoldiersPopUI/qi.png" />
+      <FilePathData Path="commonUI/res/lk/SoldiersPopUI/qi_0.png" />
+      <FilePathData Path="commonUI/res/lk/SoldiersPopUI/soldier_dengjiUP.png" />
+      <FilePathData Path="commonUI/res/lk/SoldiersPopUI/zuida.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

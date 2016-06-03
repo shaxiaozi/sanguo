@@ -1,0 +1,21 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="MinFbSelectUI" ID="5eabfad2-1575-4fec-a343-5de525f2490f" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/cs/MinFbSelectUI/guanqiajiangli.png" />
+      <FilePathData Path="commonUI/res/cs/MinFbSelectUI/jingying.png" />
+      <FilePathData Path="commonUI/res/cs/MinFbSelectUI/jingying_1.png" />
+      <FilePathData Path="commonUI/res/cs/MinFbSelectUI/putong.png" />
+      <FilePathData Path="commonUI/res/cs/MinFbSelectUI/putong_1.png" />
+      <FilePathData Path="commonUI/res/cs/MinFbSelectUI/pve_yiningqu.png" />
+      <FilePathData Path="commonUI/res/cs/MinFbSelectUI/saodang.png" />
+      <FilePathData Path="commonUI/res/cs/MinFbSelectUI/suijidiaoluo.png" />
+      <FilePathData Path="commonUI/res/cs/MinFbSelectUI/tuandui.png" />
+      <FilePathData Path="commonUI/res/cs/MinFbSelectUI/tuandui_1.png" />
+      <FilePathData Path="commonUI/res/cs/MinFbSelectUI/yitongguan.png" />
+      <FilePathData Path="commonUI/res/cs/MinFbSelectUI/zhandou.png" />
+      <FilePathData Path="commonUI/res/cs/MinFbSelectUI/zhanlipin.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

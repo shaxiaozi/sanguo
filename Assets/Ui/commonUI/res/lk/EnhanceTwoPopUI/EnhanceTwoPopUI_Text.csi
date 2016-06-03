@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="EnhanceTwoPopUI_Text" ID="fd72d76c-74d9-4727-9632-203c08359618" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/EnhanceTwoPopUI/nindewujiang.png" />
+      <FilePathData Path="commonUI/res/lk/EnhanceTwoPopUI/wujiangdengjidadao.png" />
+      <FilePathData Path="commonUI/res/lk/EnhanceTwoPopUI/xiaohaowuhun.png" />
+      <FilePathData Path="commonUI/res/lk/EnhanceTwoPopUI/jyzy.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

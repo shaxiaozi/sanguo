@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="SignRewardPopUI_Text" ID="abe2c075-7a27-47ab-a011-d9ebd24bf30f" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/SignRewardPopUI/asdkkj.png" />
+      <FilePathData Path="commonUI/res/tyj/SignRewardPopUI/diertian.png" />
+      <FilePathData Path="commonUI/res/tyj/SignRewardPopUI/disantian.png" />
+      <FilePathData Path="commonUI/res/tyj/SignRewardPopUI/disitian.png" />
+      <FilePathData Path="commonUI/res/tyj/SignRewardPopUI/diwutian.png" />
+      <FilePathData Path="commonUI/res/tyj/SignRewardPopUI/diyitian.png" />
+      <FilePathData Path="commonUI/res/tyj/SignRewardPopUI/niyilxdl.png" />
+      <FilePathData Path="commonUI/res/tyj/SignRewardPopUI/qdlj.png" />
+      <FilePathData Path="commonUI/res/tyj/SignRewardPopUI/shuangbei.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

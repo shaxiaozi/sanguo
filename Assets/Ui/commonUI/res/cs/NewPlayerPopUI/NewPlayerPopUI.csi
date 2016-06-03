@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="NewPlayerPopUI" ID="1013dc7d-2b15-4a15-86c9-857e40b0f9b9" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/cs/NewPlayerPopUI/Random_name.png" />
+      <FilePathData Path="commonUI/res/cs/NewPlayerPopUI/xbxz.png" />
+      <FilePathData Path="commonUI/res/cs/NewPlayerPopUI/beij.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

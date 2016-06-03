@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="EmbattleUI_Text" ID="8e48f9f9-4a96-4ad6-bb1c-483051cf850f" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/EmbattleUI/buz.png" />
+      <FilePathData Path="commonUI/res/tyj/EmbattleUI/bzpj.png" />
+      <FilePathData Path="commonUI/res/tyj/EmbattleUI/chejun.png" />
+      <FilePathData Path="commonUI/res/tyj/EmbattleUI/miabn.png" />
+      <FilePathData Path="commonUI/res/tyj/EmbattleUI/yjbz.png" />
+      <FilePathData Path="commonUI/res/tyj/EmbattleUI/baoc.png" />
+      <FilePathData Path="commonUI/res/tyj/EmbattleUI/defent.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

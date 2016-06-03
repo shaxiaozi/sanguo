@@ -1,0 +1,14 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="PropUI_Text" ID="a1f887af-3690-41d1-ab63-0cd42abbbb9e" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/PropUI/daojida.png" />
+      <FilePathData Path="commonUI/res/tyj/PropUI/daoju.png" />
+      <FilePathData Path="commonUI/res/tyj/PropUI/daoju_1.png" />
+      <FilePathData Path="commonUI/res/tyj/PropUI/gongj.png" />
+      <FilePathData Path="commonUI/res/tyj/PropUI/gongj_1.png" />
+      <FilePathData Path="commonUI/res/tyj/PropUI/shiy.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

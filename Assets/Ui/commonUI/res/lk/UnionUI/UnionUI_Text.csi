@@ -1,0 +1,85 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="UnionUI_Text" ID="9a6fab79-715b-4632-9a5a-304fe3aff2cb" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/UnionUI/chazhao.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/chazhaogonghui.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/chengyuan.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/chuangjian.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/chuangjiangonghui.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/chuangjianhuafei.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/gonghuiguanli.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/gonghuiID.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/gonghuiliuyan.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/gonghuimingcheng.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/gonghuitubiao.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/gonghuixuanyan.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/jiaru.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/jiarugonghui.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/mobai.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/mobaidashen.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/tuanduifuben.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/tuichugonghui.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/xiugai.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/xuyaoXXji.png" />
+      <FilePathData Path="commonUI/res/lk/UnionSetPopUI/gonghuileixing.png" />
+      <FilePathData Path="commonUI/res/lk/UnionSetPopUI/gonghuitubiao.png" />
+      <FilePathData Path="commonUI/res/lk/UnionSetPopUI/querenxiugai.png" />
+      <FilePathData Path="commonUI/res/lk/UnionSetPopUI/ruhuizuixiaodengji.png" />
+      <FilePathData Path="commonUI/res/lk/UnionSetPopUI/xiugai.png" />
+      <FilePathData Path="commonUI/res/lk/UnionIconPopUI/gonggaoxiugai.png" />
+      <FilePathData Path="commonUI/res/lk/UnionIconPopUI/gonghuiliuyan.png" />
+      <FilePathData Path="commonUI/res/lk/UnionIconPopUI/gonghuirizhi.png" />
+      <FilePathData Path="commonUI/res/lk/UnionIconPopUI/gonghuirizhi1.png" />
+      <FilePathData Path="commonUI/res/lk/UnionIconPopUI/gonghuishezhi.png" />
+      <FilePathData Path="commonUI/res/lk/UnionIconPopUI/xuanzetubiao.png" />
+      <FilePathData Path="commonUI/res/lk/UnionMailPopUI/fasong.png" />
+      <FilePathData Path="commonUI/res/lk/UnionMailPopUI/gonghuiquanyuan.png" />
+      <FilePathData Path="commonUI/res/lk/UnionMembersPopUI/chengyuanguanli.png" />
+      <FilePathData Path="commonUI/res/lk/UnionMembersPopUI/fubentiaozhancishu.png" />
+      <FilePathData Path="commonUI/res/lk/UnionMembersPopUI/gonghuichengyuanshuliang.png" />
+      <FilePathData Path="commonUI/res/lk/UnionMembersPopUI/qirihuoyuegongxian.png" />
+      <FilePathData Path="commonUI/res/lk/UnionMembersPopUI/zuihoushangxianshijian.png" />
+      <FilePathData Path="commonUI/res/lk/UnionMoBaiPopUI/mianfeimobai.png" />
+      <FilePathData Path="commonUI/res/lk/UnionMoBaiPopUI/xuanzemobaifangshi.png" />
+      <FilePathData Path="commonUI/res/lk/Union_CY_Info_PopUI/gongxianhuoyue.png" />
+      <FilePathData Path="commonUI/res/lk/Union_CY_Info_PopUI/shangxianshijian.png" />
+      <FilePathData Path="commonUI/res/lk/Union_CY_PopUI/chexiaozhanglao.png" />
+      <FilePathData Path="commonUI/res/lk/Union_CY_PopUI/shengweihuizhang.png" />
+      <FilePathData Path="commonUI/res/lk/Union_CY_PopUI/shengweizhanglao.png" />
+      <FilePathData Path="commonUI/res/lk/Union_CY_PopUI/tichugonghui.png" />
+      <FilePathData Path="commonUI/res/lk/UnionApplyPopUI/gonghuichengyuanshuliang.png" />
+      <FilePathData Path="commonUI/res/lk/UnionApplyPopUI/jujue.png" />
+      <FilePathData Path="commonUI/res/lk/UnionApplyPopUI/ruhuishenqing.png" />
+      <FilePathData Path="commonUI/res/lk/UnionApplyPopUI/tongyi.png" />
+      <FilePathData Path="commonUI/res/lk/UnionButFunctionPopUI/chengyuanguanli.png" />
+      <FilePathData Path="commonUI/res/lk/UnionButFunctionPopUI/gonghuishezhi.png" />
+      <FilePathData Path="commonUI/res/lk/UnionButFunctionPopUI/jiesangonghui.png" />
+      <FilePathData Path="commonUI/res/lk/UnionButFunctionPopUI/quanyuanyoujian.png" />
+      <FilePathData Path="commonUI/res/lk/UnionButFunctionPopUI/ruhuishenqing.png" />
+      <FilePathData Path="commonUI/res/lk/UnionButFunctionPopUI/xiugaigonggao.png" />
+      <FilePathData Path="commonUI/res/lk/UnionFBPopUI/gongdafuben.png" />
+      <FilePathData Path="commonUI/res/lk/UnionFBPopUI/kaiqifuben.png" />
+      <FilePathData Path="commonUI/res/lk/UnionFBPopUI/tuanduifuben.png" />
+      <FilePathData Path="commonUI/res/lk/UnionFBPopUI/yaoqiugonghuihuoyuedu.png" />
+      <FilePathData Path="commonUI/res/lk/UnionGodPopUI/jinrimobaicishu.png" />
+      <FilePathData Path="commonUI/res/lk/UnionGodPopUI/leijilingqujiangli.png" />
+      <FilePathData Path="commonUI/res/lk/UnionGodPopUI/lingqujiangli.png" />
+      <FilePathData Path="commonUI/res/lk/UnionGodPopUI/mobaidashen.png" />
+      <FilePathData Path="commonUI/res/lk/UnionDonatePopUI/fenlei.png" />
+      <FilePathData Path="commonUI/res/lk/UnionDonatePopUI/ghjx.png" />
+      <FilePathData Path="commonUI/res/lk/UnionDonatePopUI/jbjx.png" />
+      <FilePathData Path="commonUI/res/lk/UnionDonatePopUI/jbjx_1.png" />
+      <FilePathData Path="commonUI/res/lk/UnionDonatePopUI/jrjx.png" />
+      <FilePathData Path="commonUI/res/lk/UnionDonatePopUI/jrjx_1.png" />
+      <FilePathData Path="commonUI/res/lk/UnionDonatePopUI/juanxian.png" />
+      <FilePathData Path="commonUI/res/lk/UnionDonatePopUI/lsjx.png" />
+      <FilePathData Path="commonUI/res/lk/UnionDonatePopUI/lsjx_1.png" />
+      <FilePathData Path="commonUI/res/lk/UnionDonatePopUI/ybjx.png" />
+      <FilePathData Path="commonUI/res/lk/UnionDonatePopUI/ybjx_1.png" />
+      <FilePathData Path="commonUI/res/lk/UnionUI/gonghuijuanxian.png" />
+      <FilePathData Path="commonUI/res/lk/UnionDonatePopUI/xiaohao.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

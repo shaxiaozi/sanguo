@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="Discount_Text" ID="d9b96628-f6c0-4fcb-b183-3de50b579d98" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/DiscountPopUI/czthlb.png" />
+      <FilePathData Path="commonUI/res/lk/DiscountPopUI/daojishi.png" />
+      <FilePathData Path="commonUI/res/lk/DiscountPopUI/dian.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

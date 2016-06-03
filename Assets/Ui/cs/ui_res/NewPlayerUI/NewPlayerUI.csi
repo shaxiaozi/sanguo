@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="NewPlayerUI" ID="5192a9f4-3ff3-481d-9837-3d56adc7762c" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="cs/ui_res/NewPlayerUI/man.png" />
+      <FilePathData Path="cs/ui_res/NewPlayerUI/man_select.png" />
+      <FilePathData Path="cs/ui_res/NewPlayerUI/woman.png" />
+      <FilePathData Path="cs/ui_res/NewPlayerUI/woman_select.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,10 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="XueZhanAttrPopUI" ID="af5ccde5-d642-49f0-a274-3026f9c5a46a" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/XueZhanAttrPopUI/shengyu.png" />
+      <FilePathData Path="commonUI/res/tyj/XueZhanAttrPopUI/shuxjiac.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

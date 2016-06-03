@@ -1,0 +1,9 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="OnlineRewardPopUI" ID="fa9c90e3-02f3-42e9-ad68-b091dbc41a50" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/OnlineRewardPopUI/zaixianjiangli.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

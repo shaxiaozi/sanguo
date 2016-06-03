@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="ChatPopUI_Text" ID="3504dc19-9a12-4720-bcd3-53551e772645" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/ChatPopUI/fasong.png" />
+      <FilePathData Path="commonUI/res/lk/ChatPopUI/mianfei.png" />
+      <FilePathData Path="commonUI/res/lk/ChatPopUI/shijie.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

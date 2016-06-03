@@ -1,0 +1,11 @@
+runtime
+config.json
+.*
+!.gitignore
+*.zip
+*.suo
+*.sln
+*.csproj
+Temp
+obj
+ProjectSettings

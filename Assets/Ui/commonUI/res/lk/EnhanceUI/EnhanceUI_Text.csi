@@ -1,0 +1,13 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="EnhanceUI_Text" ID="93bbe366-95ef-4c13-b38a-410f03136402" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/EnhanceUI/shengji_enhance.png" />
+      <FilePathData Path="commonUI/res/lk/EnhanceUI/shibingpeiyang.png" />
+      <FilePathData Path="commonUI/res/lk/EnhanceUI/wujiangjinjie.png" />
+      <FilePathData Path="commonUI/res/lk/EnhanceUI/wujiangshengji.png" />
+      <FilePathData Path="commonUI/res/lk/EnhanceUI/cs.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

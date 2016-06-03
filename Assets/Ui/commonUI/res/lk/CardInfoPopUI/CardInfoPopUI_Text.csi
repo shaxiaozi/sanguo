@@ -1,0 +1,16 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="CardInfoPopUI_Text" ID="87218458-a6df-4575-b510-5c7068f78db5" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/CardInfoPopUI/jineng_card.png" />
+      <FilePathData Path="commonUI/res/lk/CardInfoPopUI/jinjie_card.png" />
+      <FilePathData Path="commonUI/res/lk/CardInfoPopUI/miaoshu.png" />
+      <FilePathData Path="commonUI/res/lk/CardInfoPopUI/shengji_card.png" />
+      <FilePathData Path="commonUI/res/lk/CardInfoPopUI/shuxing.png" />
+      <FilePathData Path="commonUI/res/lk/CardInfoPopUI/shuxing_0.png" />
+      <FilePathData Path="commonUI/res/lk/CardInfoPopUI/yuanfen.png" />
+      <FilePathData Path="commonUI/res/lk/CardInfoPopUI/xiangxixinxi.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

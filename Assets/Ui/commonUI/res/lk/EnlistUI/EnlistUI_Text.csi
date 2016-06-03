@@ -1,0 +1,16 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="EnlistUI_Text" ID="79343c62-fec2-4c3a-866f-d191cec2d146" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/EnlistThreePopUI/chakan.png" />
+      <FilePathData Path="commonUI/res/lk/EnlistThreePopUI/fanhui.png" />
+      <FilePathData Path="commonUI/res/lk/EnlistThreePopUI/gongxihuode.png" />
+      <FilePathData Path="commonUI/res/lk/EnlistThreePopUI/tiaoguo.png" />
+      <FilePathData Path="commonUI/res/lk/EnlistThreePopUI/zaizhaoyici.png" />
+      <FilePathData Path="commonUI/res/lk/EnlistUI/maishige.png" />
+      <FilePathData Path="commonUI/res/lk/EnlistUI/maiyige.png" />
+      <FilePathData Path="commonUI/res/lk/EnlistUI/zhaomu.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

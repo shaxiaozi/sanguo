@@ -1,0 +1,13 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="VipPopUI_Text" ID="d65f2a7c-ede2-4347-bea2-6c901e909d42" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/VipPopUI/czhi.png" />
+      <FilePathData Path="commonUI/res/tyj/VipPopUI/lib.png" />
+      <FilePathData Path="commonUI/res/tyj/VipPopUI/linqu.png" />
+      <FilePathData Path="commonUI/res/tyj/VipPopUI/teq.png" />
+      <FilePathData Path="commonUI/res/tyj/VipPopUI/viptequan.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

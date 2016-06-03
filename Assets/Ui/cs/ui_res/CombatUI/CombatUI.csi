@@ -1,0 +1,28 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="CombatUI" ID="e1eba43c-472e-416a-81ba-ebff59b276a0" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="cs/ui_res/CombatUI/combat_palyup.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/combat_puasedown.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/combat_speeddown.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/combat_speedup.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/combat_time.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/combat_xiaohp.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/combat_xiaohpbg.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/fbinfo.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/headdi.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/headout.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/hp.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/hpdi.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/hpout.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/level.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/namebg.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/shadow.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/skillbg.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/combat_arrow.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/combat_xiaohpred.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/hp_red.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

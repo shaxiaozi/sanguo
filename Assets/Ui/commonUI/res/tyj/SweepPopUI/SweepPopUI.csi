@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="SweepPopUI" ID="c86ce2a8-4efe-4bc4-8f51-b421aa0445c6" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/SweepPopUI/sd.png" />
+      <FilePathData Path="commonUI/res/tyj/SweepPopUI/sdang.png" />
+      <FilePathData Path="commonUI/res/tyj/SweepPopUI/sdnci.png" />
+      <FilePathData Path="commonUI/res/tyj/SweepPopUI/yysdl.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

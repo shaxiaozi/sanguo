@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="SevenStarUI" ID="bcb28aed-f8af-4f97-a517-c9e16ed98b2b" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/SevenStarUI/fying.png" />
+      <FilePathData Path="commonUI/res/tyj/SevenStarUI/mjxt.png" />
+      <FilePathData Path="commonUI/res/tyj/SevenStarUI/sevenstars_gui.png" />
+      <FilePathData Path="commonUI/res/tyj/SevenStarUI/sevenstars_gui_1.png" />
+      <FilePathData Path="commonUI/res/tyj/SevenStarUI/sevenstars_huang.png" />
+      <FilePathData Path="commonUI/res/tyj/SevenStarUI/sevenstars_huang_1.png" />
+      <FilePathData Path="commonUI/res/tyj/SevenStarUI/sevenstars_shen.png" />
+      <FilePathData Path="commonUI/res/tyj/SevenStarUI/sevenstars_shen_1.png" />
+      <FilePathData Path="commonUI/res/tyj/SevenStarUI/sevenstars_sheng.png" />
+      <FilePathData Path="commonUI/res/tyj/SevenStarUI/sevenstars_sheng_1.png" />
+      <FilePathData Path="commonUI/res/tyj/SevenStarUI/sevenstars_wang.png" />
+      <FilePathData Path="commonUI/res/tyj/SevenStarUI/sevenstars_wang_1.png" />
+      <FilePathData Path="commonUI/res/tyj/SevenStarUI/sevenstars_zhen.png" />
+      <FilePathData Path="commonUI/res/tyj/SevenStarUI/sevenstars_zhen_1.png" />
+      <FilePathData Path="commonUI/res/tyj/SevenStarUI/sxzz.png" />
+      <FilePathData Path="commonUI/res/tyj/SevenStarUI/zjzjys.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="HeroReplacePopUI" ID="a8551d57-f1b5-4853-aac3-61f173dd7aa1" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="False" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/HeroReplacePopUI/dangqianwujiang_1.png" />
+      <FilePathData Path="commonUI/res/tyj/HeroReplacePopUI/dangqianwujiang_2.png" />
+      <FilePathData Path="commonUI/res/tyj/HeroReplacePopUI/dangqianzhuangbei_4.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

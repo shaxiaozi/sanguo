@@ -1,0 +1,21 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="RankingUI" ID="30d26f2c-121e-41c1-b225-42755b8a42e9" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/RankingUI/1pin.png" />
+      <FilePathData Path="commonUI/res/tyj/RankingUI/1pinDown.png" />
+      <FilePathData Path="commonUI/res/tyj/RankingUI/2pin.png" />
+      <FilePathData Path="commonUI/res/tyj/RankingUI/2pinDown.png" />
+      <FilePathData Path="commonUI/res/tyj/RankingUI/3pin.png" />
+      <FilePathData Path="commonUI/res/tyj/RankingUI/3pinDown.png" />
+      <FilePathData Path="commonUI/res/tyj/RankingUI/4pin.png" />
+      <FilePathData Path="commonUI/res/tyj/RankingUI/4pinDown.png" />
+      <FilePathData Path="commonUI/res/tyj/RankingUI/guan.png" />
+      <FilePathData Path="commonUI/res/tyj/RankingUI/hdjl.png" />
+      <FilePathData Path="commonUI/res/tyj/RankingUI/ji_ranking.png" />
+      <FilePathData Path="commonUI/res/tyj/RankingUI/paihang.png" />
+      <FilePathData Path="commonUI/res/tyj/RankingUI/zhanj.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

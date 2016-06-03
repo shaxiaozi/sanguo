@@ -1,0 +1,19 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="CombatOverPopUI" ID="6fc8df4a-601c-4656-90e8-16609390a3e2" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/cs/CombatOverPopUI/huodejiangli.png" />
+      <FilePathData Path="commonUI/res/cs/CombatOverPopUI/jifen.png" />
+      <FilePathData Path="commonUI/res/cs/CombatOverPopUI/Results_1.png" />
+      <FilePathData Path="commonUI/res/cs/CombatOverPopUI/Results_2.png" />
+      <FilePathData Path="commonUI/res/cs/CombatOverPopUI/Results_solider.png" />
+      <FilePathData Path="commonUI/res/cs/CombatOverPopUI/wujiang.png" />
+      <FilePathData Path="commonUI/res/cs/CombatOverPopUI/wupindiaoluo.png" />
+      <FilePathData Path="commonUI/res/cs/CombatOverPopUI/zhandoushengli.png" />
+      <FilePathData Path="commonUI/res/cs/CombatOverPopUI/zhandoushibai.png" />
+      <FilePathData Path="commonUI/res/cs/CombatOverPopUI/zhangong.png" />
+      <FilePathData Path="commonUI/res/cs/CombatOverPopUI/cicizhandouweihuode.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

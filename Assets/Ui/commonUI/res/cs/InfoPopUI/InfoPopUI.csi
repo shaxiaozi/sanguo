@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="InfoPopUI" ID="a95543c4-a84e-425a-b686-35cfcaaacb9c" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/cs/InfoPopUI/cxlj.png" />
+      <FilePathData Path="commonUI/res/cs/InfoPopUI/lianjie.png" />
+      <FilePathData Path="commonUI/res/cs/InfoPopUI/wlljsb.png" />
+      <FilePathData Path="commonUI/res/cs/InfoPopUI/wozhidaole.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

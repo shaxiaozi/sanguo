@@ -1,0 +1,28 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="GvgUI_Text" ID="24356d6b-daec-456c-885c-860ff520e31c" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/lk/GvgUI/cyjj.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/dacheng.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/gcjj.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/gongchengdaojishi.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/bg.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/houkefuhuo.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/jingjia.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/jingjiadaojishi.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/jjpm.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/jlfb.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/jrzc.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/lijifuhuo.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/lingjiang.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/shengli.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/shengli_h.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/shibai.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/shibai_h.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/xiacijingjia.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/zdjs_h.png" />
+      <FilePathData Path="commonUI/res/lk/GvgUI/zhandoujieguo.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

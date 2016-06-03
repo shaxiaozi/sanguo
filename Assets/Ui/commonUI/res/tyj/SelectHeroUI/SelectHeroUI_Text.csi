@@ -1,0 +1,13 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="SelectHeroUI_Text" ID="9641a9a8-9cc3-4883-a553-53e6dc036e00" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/SelectHeroUI/xj.png" />
+      <FilePathData Path="commonUI/res/tyj/SelectHeroUI/xq.png" />
+      <FilePathData Path="commonUI/res/tyj/SelectHeroUI/xuanze.png" />
+      <FilePathData Path="commonUI/res/tyj/SelectHeroUI/selectText.png" />
+      <FilePathData Path="commonUI/res/tyj/SelectHeroUI/myzk.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

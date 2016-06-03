@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="UseExpCardPopUI" ID="032da668-f156-40f6-836f-b78e2d51d24f" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/UseExpCardPopUI/huodejingyan.png" />
+      <FilePathData Path="commonUI/res/tyj/UseExpCardPopUI/tianjiawujiangka.png" />
+      <FilePathData Path="commonUI/res/tyj/UseExpCardPopUI/xiaohaotongqian.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="EquipmentUI_Text" ID="aae17186-8745-4aad-a94c-d273eb0bf4ff" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/EquipmentUI/shuxing.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipmentUI/zhuangb.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipmentUI/zb.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

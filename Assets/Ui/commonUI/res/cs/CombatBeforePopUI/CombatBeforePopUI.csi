@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="CombatBeforePopUI" ID="90a8f496-4044-459b-82dd-a90ab69c1bb2" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/cs/CombatBeforePopUI/buzhen.png" />
+      <FilePathData Path="commonUI/res/cs/CombatBeforePopUI/kaizhan.png" />
+      <FilePathData Path="commonUI/res/cs/CombatBeforePopUI/zhanqianzhunbei.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

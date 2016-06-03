@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="XueZhanUI" ID="c999e9ad-0c73-4d10-8a49-e9e6ab97bfbe" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/XueZhanUI/diXXguan.png" />
+      <FilePathData Path="commonUI/res/tyj/XueZhanUI/diyu.png" />
+      <FilePathData Path="commonUI/res/tyj/XueZhanUI/guan.png" />
+      <FilePathData Path="commonUI/res/tyj/XueZhanUI/hebidjib.png" />
+      <FilePathData Path="commonUI/res/tyj/XueZhanUI/ji_xuezhan.png" />
+      <FilePathData Path="commonUI/res/tyj/XueZhanUI/knan.png" />
+      <FilePathData Path="commonUI/res/tyj/XueZhanUI/paihb.png" />
+      <FilePathData Path="commonUI/res/tyj/XueZhanUI/put.png" />
+      <FilePathData Path="commonUI/res/tyj/XueZhanUI/shuxingjiacheng.png" />
+      <FilePathData Path="commonUI/res/tyj/XueZhanUI/tiaozguo.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

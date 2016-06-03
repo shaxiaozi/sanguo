@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="CombatBeforeUI" ID="05d9ad13-7208-4a54-8ed5-c062ecace1ed" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="False" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="cs/ui_res/CombatUI/before_ban.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/before_bg.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/before_war.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/changshezhen.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/gouxingzhen.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/heyizhen.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/wanggezhen.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/yanxingzhen.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/yuanxingzhen.png" />
+      <FilePathData Path="cs/ui_res/CombatUI/zhuixingzhen.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

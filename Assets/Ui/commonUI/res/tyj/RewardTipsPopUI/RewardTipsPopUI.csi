@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="RewardTipsPopUI" ID="3e93d900-b341-443a-80ec-d52efa52f56d" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/RewardTipsPopUI/baoj.png" />
+      <FilePathData Path="commonUI/res/tyj/RewardTipsPopUI/hdtq.png" />
+      <FilePathData Path="commonUI/res/tyj/RewardTipsPopUI/ljwc.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

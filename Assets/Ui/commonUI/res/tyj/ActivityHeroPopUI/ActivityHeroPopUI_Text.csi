@@ -1,0 +1,13 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="ActivityHeroPopUI_Text" ID="80bfed88-f32e-49ac-a75e-0b907f969908" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/ActivityHeroPopUI/jbcq.png" />
+      <FilePathData Path="commonUI/res/tyj/ActivityHeroPopUI/jbcq_down.png" />
+      <FilePathData Path="commonUI/res/tyj/ActivityHeroPopUI/mfcq.png" />
+      <FilePathData Path="commonUI/res/tyj/ActivityHeroPopUI/mfcq_down.png" />
+      <FilePathData Path="commonUI/res/tyj/ActivityHeroPopUI/xssmasy.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

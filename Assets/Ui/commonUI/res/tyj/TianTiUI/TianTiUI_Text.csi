@@ -1,0 +1,25 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="TianTiUI_Text" ID="840c7dfb-429e-43af-b864-08d313dab62e" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/bai.png" />
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/dqzl.png" />
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/gongf.png" />
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/jfsc.png" />
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/jiangljf.png" />
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/jrbfzx.png" />
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/minjb.png" />
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/minjb_1.png" />
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/paim.png" />
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/paim_1.png" />
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/paiming.png" />
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/sheng.png" />
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/sytzcs.png" />
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/tiaozhan.png" />
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/zhanbao.png" />
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/zhanbao_1.png" />
+      <FilePathData Path="commonUI/res/tyj/TianTiUI/zhanl.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

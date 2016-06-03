@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="PartHeroUI_Text" ID="8bdea1c9-8a39-4d18-ab6e-097e7ab1fc8b" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/PartHeroUI/pianjiang.png" />
+      <FilePathData Path="commonUI/res/tyj/PartHeroUI/pjjc.png" />
+      <FilePathData Path="commonUI/res/tyj/PartHeroUI/szwjyfxg.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

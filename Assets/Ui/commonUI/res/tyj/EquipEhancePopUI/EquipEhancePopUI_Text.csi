@@ -1,0 +1,21 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="EquipEhancePopUI_Text" ID="759f4f62-4316-4fe8-b286-80d1cb72ef6b" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="commonUI/res/tyj/EquipEhancePopUI/hc.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipEhancePopUI/hc_1.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipEhancePopUI/qh.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipEhancePopUI/qh_1.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipEhancePopUI/qianghua.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipEhancePopUI/shuxing.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipEhancePopUI/suoxucailiao.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipEhancePopUI/suoxuzhuangbei.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipEhancePopUI/xilian.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipEhancePopUI/xilianxiaohao.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipEhancePopUI/xl.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipEhancePopUI/xl_1.png" />
+      <FilePathData Path="commonUI/res/tyj/EquipEhancePopUI/zcyc.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>
