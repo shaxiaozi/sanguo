@@ -1,9 +1,0 @@
-<PlistInfoProjectFile>
-  <PropertyGroup Type="Plist" Name="LoginUIBg" ID="68dd1a90-ed66-4dac-95ce-c290e7c28fcf" Version="2.3.2.3" />
-  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
-    <ImageFiles>
-      <FilePathData Path="cs/ui_res/LoginUI/box3_login.png" />
-    </ImageFiles>
-    <MaxSize Width="1024" Height="1024" />
-  </Content>
-</PlistInfoProjectFile>

@@ -6,6 +6,7 @@ public class LoginViewController : MonoBehaviour {
 
 	public GameObject m_loginPanel;
 	public GameObject m_registPanel;
+	public GameObject m_serverSelectPanel;
 
 	//注册点击
 	public void onRegistBtClick()
@@ -25,6 +26,8 @@ public class LoginViewController : MonoBehaviour {
 	public void onLoginBtClick()
 	{
 		Debug.Log ("登陆游戏");
+		m_serverSelectPanel.SetActive (true);
+		m_loginPanel.SetActive(false);
 	}
 
 	//点击注册
